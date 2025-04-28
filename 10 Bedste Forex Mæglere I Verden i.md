@@ -105,14 +105,15 @@ At vælge den rigtige Forex mægler betyder at sikre:
 
 ---
 
-### 2. IC Markets
+### 2. AvaTrade
 
-- **Regulering:** ASIC, CySEC
-- **Platforme:** MT4, MT5, cTrader
-- **Highlights:**
-  - Ægte ECN-mægler
-  - Meget lave spreads
-  - Ekstremt hurtig ordreudførelse
+- **Regulering:** Central Bank of Ireland, ASIC
+- **Platforme:** MT4, MT5, AvaTradeGo
+- **Fordele:**
+  - Fast lav spreadstruktur
+  - Stærk uddannelsespakke
+
+👉 [🔗 Åbn din konto nu hos Avatrade](https://www.avatrade.com?versionId=10301&tag=194438)
 
 ---
 
@@ -124,6 +125,8 @@ At vælge den rigtige Forex mægler betyder at sikre:
   - Ingen skjulte gebyrer
   - Mulighed for konti uden swap
 
+👉 [🔗 Åbn din konto nu hos Pepperstone](https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=33954)
+
 ---
 
 ### 4. XM 🌎
@@ -133,6 +136,8 @@ At vælge den rigtige Forex mægler betyder at sikre:
 - **Fordele:**
   - 30$ velkomstbonus uden indbetaling 🎁
   - Over 1000 finansielle instrumenter
+
+👉 [🔗 Åbn din konto nu hos XM](https://clicks.pipaffiliates.com/c?c=589901&l=en&p=0)
 
 ---
 
@@ -166,13 +171,14 @@ At vælge den rigtige Forex mægler betyder at sikre:
 
 ---
 
-### 8. AvaTrade
+### 8. IC Markets
 
-- **Regulering:** Central Bank of Ireland, ASIC
-- **Platforme:** MT4, MT5, AvaTradeGo
-- **Fordele:**
-  - Fast lav spreadstruktur
-  - Stærk uddannelsespakke
+- **Regulering:** ASIC, CySEC
+- **Platforme:** MT4, MT5, cTrader
+- **Highlights:**
+  - Ægte ECN-mægler
+  - Meget lave spreads
+  - Ekstremt hurtig ordreudførelse
 
 ---
 
