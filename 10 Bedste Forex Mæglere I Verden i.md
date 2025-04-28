@@ -90,7 +90,7 @@ At vælge den rigtige Forex mægler betyder at sikre:
 
 ## Top 10 Bedste Forex Mæglere i 2025
 
-### 1. Exness (Vores Topvalg) ⭐
+### 1. Exness (Vores Topvalg)
 
 - **Regulering:** FCA, CySEC, FSCA
 - **Platforme:** MT4, MT5
@@ -105,7 +105,7 @@ At vælge den rigtige Forex mægler betyder at sikre:
 
 ---
 
-### 2. IC Markets 🚀
+### 2. IC Markets
 
 - **Regulering:** ASIC, CySEC
 - **Platforme:** MT4, MT5, cTrader
@@ -116,7 +116,7 @@ At vælge den rigtige Forex mægler betyder at sikre:
 
 ---
 
-### 3. Pepperstone 🌟
+### 3. Pepperstone
 
 - **Regulering:** ASIC, FCA
 - **Platforme:** MT4, MT5, cTrader
@@ -136,7 +136,7 @@ At vælge den rigtige Forex mægler betyder at sikre:
 
 ---
 
-### 5. FXTM 🔥
+### 5. FXTM
 
 - **Regulering:** FCA, FSCA
 - **Platforme:** MT4, MT5
@@ -146,7 +146,7 @@ At vælge den rigtige Forex mægler betyder at sikre:
 
 ---
 
-### 6. IG Markets 📊
+### 6. IG Markets
 
 - **Regulering:** FCA
 - **Platforme:** Proprietær + MT4
@@ -156,7 +156,7 @@ At vælge den rigtige Forex mægler betyder at sikre:
 
 ---
 
-### 7. OANDA 🌐
+### 7. OANDA
 
 - **Regulering:** FCA, CFTC
 - **Platforme:** MT4, OANDA Web
@@ -166,7 +166,7 @@ At vælge den rigtige Forex mægler betyder at sikre:
 
 ---
 
-### 8. AvaTrade 🎯
+### 8. AvaTrade
 
 - **Regulering:** Central Bank of Ireland, ASIC
 - **Platforme:** MT4, MT5, AvaTradeGo
@@ -176,7 +176,7 @@ At vælge den rigtige Forex mægler betyder at sikre:
 
 ---
 
-### 9. RoboForex 🚀
+### 9. RoboForex
 
 - **Regulering:** IFSC
 - **Platforme:** MT4, MT5, cTrader
@@ -186,7 +186,7 @@ At vælge den rigtige Forex mægler betyder at sikre:
 
 ---
 
-### 10. FXPro 🌟
+### 10. FXPro
 
 - **Regulering:** FCA, CySEC
 - **Platforme:** MT4, MT5, cTrader
